@@ -1,6 +1,6 @@
 # Project Title
 
-Git Project
+Git merge Project
 
 ## Authors
 
